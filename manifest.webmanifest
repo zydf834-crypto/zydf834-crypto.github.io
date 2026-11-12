@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "مكتبة حلول الفيزياء",
+  "short_name": "حلول الفيزياء",
+  "description": "حلول مسائل الفيزياء الوزارية للسادس العلمي خطوة خطوة مع أنشطة متحركة وأسئلة واختبارات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9EFF4",
+  "theme_color": "#0B7A86",
+  "categories": ["education"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
